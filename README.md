@@ -1,2 +1,3 @@
-# webfonts
-Web fonts mais usadas
+# WebFonts
+
+Repositório de webfonts nos quais mais usamos frequentemente.
